@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\a_manandhar\\Downloads\\android-kotlin-fundamentals-starter-apps-master\\Android_Bonus_Assignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\devbyte_item.xml",
+        "source": "C:\\Users\\a_manandhar\\Downloads\\android-kotlin-fundamentals-starter-apps-master\\Android_Bonus_Assignment\\app\\src\\main\\res\\layout\\devbyte_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\a_manandhar\\Downloads\\android-kotlin-fundamentals-starter-apps-master\\Android_Bonus_Assignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_dev_byte.xml",
+        "source": "C:\\Users\\a_manandhar\\Downloads\\android-kotlin-fundamentals-starter-apps-master\\Android_Bonus_Assignment\\app\\src\\main\\res\\layout\\fragment_dev_byte.xml"
+    }
+]
